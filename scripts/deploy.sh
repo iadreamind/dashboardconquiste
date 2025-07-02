@@ -5,10 +5,10 @@
 
 set -e
 
-# Configurações - EDITE ESTAS VARIÁVEIS
-VPS_IP="SEU_IP_DA_VPS"
-VPS_USER="root"  # ou seu usuário
-DOMAIN="seu-dominio.com"  # ou IP da VPS
+# Configurações - INFORMAÇÕES REAIS DO PROJETO
+VPS_IP="159.203.64.25"
+VPS_USER="ubuntu"
+DOMAIN="gestaoconquiste.com.br"
 APP_NAME="nextjs-dashboard"
 
 echo "🚀 Iniciando deploy para VPS..."
